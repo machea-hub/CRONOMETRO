@@ -36,6 +36,9 @@ img{
 }
 
 .btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
     border-radius: 10px;
     background: #24F2E9;
     box-shadow: 0 18px 40px 0 #1aa8a1;
